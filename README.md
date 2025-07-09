@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Shudarshan Kongkham! 👋</h1>
 
 <p align="center">
-<b>AI Specialist & Computer Vision Engineer based in Sydney, Australia</b><br>
-🚀 Passionate about leveraging cutting-edge AI to solve complex challenges and drive real-world impact
+<b>AI Specialist & Computer Vision Engineer!</b><br>
+🚀 Passionate about leveraging cutting-edge AI to solve complex challenges and drive real-world impact 🚀
 </p>
 
 <div align="center">
@@ -19,50 +19,15 @@
 
 🎯 **AI Specialist** with deep expertise in **Computer Vision**, **Machine Learning**, and **Deep Learning**. I hold a **Master of AI from UTS** and have provided technical leadership in developing cutting-edge CV and NLP solutions, including solution architecture and MLOps pipeline design.
 
-💡 **Technical Leader** who excels at translating complex AI research into practical, scalable applications. I specialize in real-time video analytics, object detection & tracking, and multi-modal AI systems that deliver measurable business impact.
+💡 **Technical Leader** who excels at translating complex AI research into practical, scalable applications. I specialize in real-time video analytics, object detection & tracking, and multi-modal Agentic AI systems that deliver measurable business impact.
 
 🏆 **Award-Winning Innovator** with projects like:
-- **"Gesture Fly"** - People's Choice Award
-- **"Guardian AI"** - Best Innovation/Research Award
+- **"Gesture Fly"** - People's Choice Award in UTS AI Showcase 2024
+- **"Guardian AI"** - Best Innovation/Research Award  in UTS AI Showcase 2025
 
 🎓 **Educator & Mentor** actively contributing to AI talent development by teaching **Data Analytics** and **Deep Learning** at UTS, fostering the next generation of AI practitioners.
 
----
-
-## 🔬 Featured Project: Advanced Video Analytics Framework
-
-<div align="center">
-  <img src="https://img.shields.io/badge/YOLOv9-Latest-brightgreen?style=for-the-badge" alt="YOLOv9">
-  <img src="https://img.shields.io/badge/YOLOv5-Stable-blue?style=for-the-badge" alt="YOLOv5">
-  <img src="https://img.shields.io/badge/DeepSORT-Tracking-orange?style=for-the-badge" alt="DeepSORT">
-  <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-red?style=for-the-badge" alt="OpenCV">
-</div>
-
-### 🎬 [Video Analytics Framework](https://github.com/ShudarshanKongkham/Video-Analytics-)
-*Real-time Object Detection, Tracking & Intelligent Zone Analysis*
-
-A comprehensive computer vision framework combining **YOLOv5/YOLOv9** with **DeepSORT** for advanced video understanding:
-
-#### 🚀 **Key Innovations**
-- **Multi-Model Architecture**: Seamless switching between YOLOv5 & YOLOv9 models
-- **Real-Time Zone Analytics**: Interactive polygon-based zone definition with entry/exit monitoring
-- **Advanced Object Tracking**: DeepSORT integration with persistent ID management
-- **Color-Based Segmentation**: HSV-based tracking with optical flow integration
-- **MOT16 Evaluation Suite**: Industry-standard benchmarking with comprehensive metrics
-
-#### 📊 **Performance Achievements**
-- **71.8% MOTA** (Multi-Object Tracking Accuracy) with YOLOv9
-- **42% parameter reduction** while maintaining accuracy
-- **Real-time processing** at 30+ FPS on modern GPUs
-- **Robust tracking** with minimal ID switches
-
-#### 🛠️ **Technical Stack**
-```python
-# Core Technologies
-YOLOv9 + DeepSORT + OpenCV + PyTorch
-HSV Segmentation + Lucas-Kanade Optical Flow
-MOT16 Evaluation + Interactive Zone Analysis
-```
+🌏 **Adventure Enthusiast** who believes in work-life balance! When I'm not coding AI solutions, you'll find me hiking scenic trails 🥾, exploring new destinations ✈️, or staying active through basketball 🏀, soccer ⚽, running 🏃‍♂️, and cycling 🚴‍♂️. I find that outdoor adventures fuel my creativity and problem-solving abilities in tech!
 
 ---
 
@@ -79,14 +44,14 @@ MOT16 Evaluation + Interactive Zone Analysis
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" />
 <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="40" alt="PyTorch" />
+<img src="https://www.gstatic.com/devrel-devsite/prod/v46d043083f27fa7361aea8506dabbd161e0b84f5a7c6df8d5e3cfad447dd4376/tensorflow/images/lockup.svg" height="40" alt="Tensorflow" />
 
 ### 🔬 Computer Vision & NLP
 <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" height="40" alt="OpenCV" />
 <img width="12" />
 <img src="https://images.prismic.io/oxylabs-web/Z_Y1ondAxsiBweUS_langchain.png?auto=format,compress" height="40" alt="Langchain" />
 <img width="12" />
-<img src="https://ollama.com/public/ollama.png" height="40" alt="Ollama" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ollama-dark.png" height="40" alt="Ollama" />
 <img width="12" />
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="HuggingFace" />
 
@@ -128,7 +93,7 @@ MOT16 Evaluation + Interactive Zone Analysis
 <td width="50%">
 
 ### 🎯 **Computer Vision**
-- Object Detection & Tracking (YOLO, R-CNN)
+- Object Localization & Tracking 
 - Image Segmentation & Classification
 - Real-time Video Analytics
 - Optical Flow & Motion Analysis
@@ -170,16 +135,6 @@ MOT16 Evaluation + Interactive Zone Analysis
 </tr>
 </table>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShudarshanKongkham&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShudarshanKongkham&layout=compact&langs_count=8&theme=react"/>
-
-</div>
 
 ---
 
@@ -219,11 +174,12 @@ MOT16 Evaluation + Interactive Zone Analysis
 
 **🚀 Let's engineer impactful AI solutions that shape our future together!**
 
-<img src="https://komarev.com/ghpvc/?username=ShudarshanKongkham&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+
 
 </div>
 <!--
 **ShudarshanKongkham/ShudarshanKongkham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=ShudarshanKongkham&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 Here are some ideas to get you started:
 
